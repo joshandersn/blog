@@ -1,26 +1,17 @@
 <script lang="ts" setup>
-const colorMode = useColorMode()
-const isDark = computed({
-  get () {
-    return colorMode.value === 'dark'
-  },
-  set () {
-    colorMode.preference = colorMode.value === 'dark' ? 'light' : 'dark'
-  }
-})
 const links = [{
   label: 'Home',
-  to: '/',
+  to: '/blog/',
   icon: 'i-heroicons-home'
 },
 {
   label: 'Blog',
-  to: '/articles',
+  to: '/blog/articles',
   icon: 'i-heroicons-information-circle'
 },
 {  
   label: 'About',
-  to: '/about',
+  to: '/blog/about',
   icon: 'i-heroicons-information-circle'
 }]
 </script>
@@ -34,20 +25,11 @@ const links = [{
         </template>
       </UHorizontalNavigation>
       <UCard>
-        <ContentDoc />
-        <template #footer>
-          <UButton
-            :icon="isDark ? 'i-heroicons-moon-20-solid' : 'i-heroicons-sun-20-solid'"
-            color="gray"
-            variant="ghost"
-            aria-label="Theme"
-            @click="isDark = !isDark"
-          >
-          <template #fallback>
-            <div class="w-8 h-8" />
+        <ContentDoc >
+          <template #not-found>
+            sorry no page like that
           </template>
-          </UButton>
-        </template>
+        </ContentDoc>
       </UCard>
     </UContainer>
     </main>
