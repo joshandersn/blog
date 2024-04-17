@@ -1,11 +1,21 @@
 ---
-navigation:
-    title: 'About'
-    icon: '🏡'
+title: About Josh
 ---
 
 # About Me
 
-I code stuff
+Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
 
-[Here's my twitter](https://x.com/joshandersn)
+Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
+
+Side hustling game developer. Working on a rougelike with cars in the [Godot Engine](https://godotengine.org)
+
+---
+
+[🐦 X](https://x.com/joshandersn)
+
+[📺 Youtube](https://youtube.com/@joshandersn)
+
+[🕹️ Twitch](https://www.twitch.tv/joshandersn)
+
+[📷 Instagram](https://www.instagram.com/josh.andrson/)

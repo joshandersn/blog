@@ -1,7 +1,5 @@
 ---
-navigation:
-    title: 'Articles'
-    icon: '🏡'
+title: Josh's Blog
 ---
 
 # Welcome to the blog!

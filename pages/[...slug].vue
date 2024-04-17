@@ -19,6 +19,7 @@ const links = [{
 <template>
   <main>
     <UContainer>
+      <img src="/img/logo.png" style="height: 70px; margin-top: 15px;" alt="joshandersn logo">
       <UHorizontalNavigation :links="links">
         <template #default="{ link }">
           <span class="group-hover:text-primary relative">{{ link.label }}</span>
@@ -27,7 +28,7 @@ const links = [{
       <UCard>
         <ContentDoc >
           <template #not-found>
-            sorry no page like that
+            sorry, no pages like that
           </template>
         </ContentDoc>
       </UCard>
@@ -46,5 +47,10 @@ h1 {
 }
 p {
   margin-bottom: 5pt;
+}
+hr {
+  margin-top: 15pt;
+  margin-bottom: 15pt;
+  border-color: #ffffff22;
 }
 </style>
