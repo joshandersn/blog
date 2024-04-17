@@ -1,17 +1,17 @@
 <script lang="ts" setup>
 const links = [{
   label: 'Home',
-  to: '/blog/',
+  to: '/',
   icon: 'i-heroicons-home'
 },
 {
   label: 'Blog',
-  to: '/blog/articles',
+  to: '/articles',
   icon: 'i-heroicons-information-circle'
 },
 {  
   label: 'About',
-  to: '/blog/about',
+  to: '/about',
   icon: 'i-heroicons-information-circle'
 }]
 </script>
