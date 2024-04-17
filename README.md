@@ -1,3 +1,1 @@
-# joshandersn.games.io
-
-Website for game marketing and blog
+Website for game marketing built with [Nuxt Content](https://content.nuxt.com/)
