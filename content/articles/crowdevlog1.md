@@ -1,6 +1,5 @@
 ---
 title: My First Devlog!
-date: 04/19/2024
 ---
 
 # Devlog 001
