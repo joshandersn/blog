@@ -14,6 +14,8 @@ Side hustling game developer. Working on a rougelike with cars in the [Godot Eng
 
 [🐦 X](https://x.com/joshandersn)
 
+[🐙 Github](https://github.com/joshandersn)
+
 [📺 Youtube](https://youtube.com/@joshandersn)
 
 [🕹️ Twitch](https://www.twitch.tv/joshandersn)
