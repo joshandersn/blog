@@ -2,15 +2,22 @@
 title: Josh's Website
 ---
 
-# Literally Josh's Website
-This website is where I post updates related to my games. You can check out everything I have to offer over on the [blog page](/articles)
+Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
 
+Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
+
+Side hustling game developer. Working on a rougelike with cars in the [Godot Engine](https://godotengine.org)
 
 ---
-So without further ado, here's a gif I found.
 
-![vault boy gif](https://media.tenor.com/BfeHmbMhIWYAAAAi/fallout-76.gif)
+[🐦 X](https://x.com/joshandersn)
 
-Remember to have a good day. Thanks for checking out my new website. You're awesome.
+[🐙 Github](https://github.com/joshandersn)
+
+[📺 Youtube](https://youtube.com/@joshandersn)
+
+[🕹️ Twitch](https://www.twitch.tv/joshandersn)
+
+[📷 Instagram](https://www.instagram.com/josh.andrson/)
 
 

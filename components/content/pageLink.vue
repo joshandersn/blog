@@ -1,17 +1,17 @@
 <script setup>
-defineProps(['id', 'img', 'written'])
+defineProps(['route', 'img', 'written'])
 </script>
 <template>
     <UCard style="margin-bottom: 10px;">
-        <NuxtLink :to="`/articles/${id}`">
+        <NuxtLink :to="`/${route}`">
         <div style="display: flex; align-items: center;">
             <div>
                     <slot />
-                    <div style="font-size: 10pt; color: #FFFFFF55;">
+                    <div style="font-size: 10pt; color: #00000055;">
                         {{ written }}
                     </div>
                 </div>
-                <img :src="`img/${img}`" width="250" :alt="id" style="margin-left: auto; border-radius: 5px;" />
+                <img :src="`img/${img}`" width="250" :alt="route" style="margin-left: auto; border-radius: 5px;" />
             </div>
         </NuxtLink>
     </Ucard>

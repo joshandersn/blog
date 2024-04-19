@@ -2,17 +2,17 @@
 const links = [{
   label: 'Home',
   to: '/',
-  icon: 'i-heroicons-home'
+  icon: 'i-heroicons-information-circle'
 },
 {
   label: 'Blog',
   to: '/articles',
-  icon: 'i-heroicons-information-circle'
+  icon: 'i-heroicons-newspaper'
 },
 {  
-  label: 'About',
-  to: '/about',
-  icon: 'i-heroicons-information-circle'
+  label: 'Portfolio',
+  to: '/portfolio',
+  icon: 'i-heroicons-photo'
 }]
 </script>
 
@@ -31,6 +31,14 @@ const links = [{
             sorry, no pages like that
           </template>
         </ContentDoc>
+        <template #footer>
+          <span class="subtext">
+            Josh Anderson<br>
+            josh@inkbird.io<br>
+            +1 (580) 860-5495<br>
+            Website made by me. Written in Nuxt<br>
+          </span>
+        </template>
       </UCard>
     </UContainer>
     </main>
@@ -38,7 +46,7 @@ const links = [{
 
 <style>
 a {
-  color: #38bdf8;
+  color: #3b82f6;
 }
 h1 {
   font-weight: bold;
@@ -51,6 +59,12 @@ p {
 hr {
   margin-top: 15pt;
   margin-bottom: 15pt;
-  border-color: #ffffff22;
+  border-color: #00000022;
+}
+.subtext {
+  font-size: 10pt;
+  line-height: 15pt;
+  color: #00000088;
+  display: flex;
 }
 </style>
