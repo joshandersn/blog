@@ -2,6 +2,10 @@
 title: Josh's Website
 ---
 
+![my-face](/img/face.jpg)
+
+Self-taught designer, music producer, illustrator, and computer programer
+
 Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
 
 Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)

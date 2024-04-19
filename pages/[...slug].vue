@@ -67,4 +67,8 @@ hr {
   color: #00000088;
   display: flex;
 }
+img[alt="my-face"] {
+  max-width: 400px;
+  border-radius: 5px;
+}
 </style>
