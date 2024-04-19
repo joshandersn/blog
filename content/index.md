@@ -24,4 +24,13 @@ Side hustling game developer. Working on a rougelike with cars in the [Godot Eng
 
 [📷 Instagram](https://www.instagram.com/josh.andrson/)
 
+---
+
+__Favorite Games__: Halo Reach, Dishonored, Half-life 2, Fallout: New Vegas, Hollow Knight, Divinity Original Sin 2, MGS:V, Super Mario Galaxy. Metal Gear Rising: Revengence
+
+__Weapons of Choice__: Affinity Designer & Photo, Blender, Godot, Obsidian, VS Code, Davinci Resolve, Logic Pro
+
+__Favorite Soundtracks__: Deus Ex: Mankind Divided, Halo: ODST, Mass Effect, Skyrim, Outer Wilds
+
+__Favorite Soups__: French Onion, Tomato, Cheddar Broccoli
 
