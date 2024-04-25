@@ -19,7 +19,7 @@ const links = [{
 <template>
   <main>
     <UContainer>
-      <img src="/img/logo.png" style="height: 70px; margin-top: 15px;" alt="joshandersn logo">
+      <img src="/img/logo.png" style="max-height: 70px; margin-top: 15px;" alt="joshandersn logo">
       <UHorizontalNavigation :links="links">
         <template #default="{ link }">
           <span class="group-hover:text-primary relative">{{ link.label }}</span>
