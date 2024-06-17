@@ -1,10 +1,9 @@
   <script lang="ts" setup>
-  defineProps(['img1', 'img2'])
+  defineProps(['img1'])
   </script>
 <template>
   <div style="display: flex; overflow:auto;">
     <img :src="`img/${img1}`">
-    <img :src="`img/${img2}`">
   </div>
 </template>
 

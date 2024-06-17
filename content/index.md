@@ -2,7 +2,7 @@
 title: Josh's Website
 ---
 
-::face-gallery{img1="face.jpg" img2="face2.jpg"}
+::face-gallery{img1="banner1.jpg"}
 ::
 
 
