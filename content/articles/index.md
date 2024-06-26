@@ -4,6 +4,6 @@ title: Josh's Blog
 
 # Welcome to the blog!
 
-::page-link{img="spaceman1.jpg" route="articles/crowdevlog1" written="04/18/24"}
-Devlog 01
+::page-link{img="bg2023.jpg" route="articles/beatgames2023" written="06/26/24"}
+Games I Beat in 2023
 ::

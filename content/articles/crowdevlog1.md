@@ -5,7 +5,7 @@ title: My First Devlog!
 # Devlog 001
 
 ![spaceman](/img/spaceman1.jpg)
-*Image: Spaceguy I painted*
+*Image: Halo inspired guy I painted*
 
 ---
 
