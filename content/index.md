@@ -2,38 +2,28 @@
 title: Josh's Website
 ---
 
-::face-gallery{img1="banner1.jpg"}
+# Welcome to My Website!
+
+::face-gallery{img1="crow01.jpg"}
+::
+This is my first project I plan to release on Steam and hopefully consoles. It's inspired by games like Geometry Wars, and WipEout.
+ 
+The gist is you ride around at high speeds. Ram enemies to unlock upgrades you can install anywhere on your ship. The game will throw continuously harder enemies at you so choose your upgrades well.
+ 
+This game has been in development since April 2024. Hopefully I will have it done this year. So anywho  Here are some screenshots.
+
+::image-gallery{img1="img/crow04.jpg" img2="img/crow03.jpg" img3="img/crow02.jpg"}
 ::
 
 
-Self-taught designer, music producer, illustrator, and computer programer
 
-Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
-
-Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
-
-Side hustling game developer. Working on my first game in the [Godot Engine](https://godotengine.org)
+If you wanna keep up with this project you can follow me on [Twitter](https://x.com/joshandersn)
+![steve](https://img1.picmix.com/output/stamp/normal/7/1/9/5/1815917_b201f.gif)
 
 
----
-
-[🐦 X](https://x.com/joshandersn)
-
-[🐙 Github](https://github.com/joshandersn)
 
 [📺 Youtube](https://youtube.com/@joshandersn)
 
 [🕹️ Twitch](https://www.twitch.tv/joshandersn)
 
 [📷 Instagram](https://www.instagram.com/josh.andrson/)
-
----
-::collapse-section{headerLabel="Nerd Zone"}
-__Favorite Games__: Halo Reach, Dishonored, Half-life 2, Fallout: New Vegas, Hollow Knight, Divinity Original Sin 2, MGS:V, Super Mario Galaxy. Metal Gear Rising: Revengence
-
-__Weapons of Choice__: Affinity Designer & Photo, Blender, Godot, Obsidian, VS Code, Davinci Resolve, Logic Pro
-
-__Favorite Soundtracks__: Deus Ex: Mankind Divided, Halo: ODST, Mass Effect, Skyrim, Outer Wilds
-
-__Favorite Soups__: French Onion, Tomato, Cheddar Broccoli
-::

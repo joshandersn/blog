@@ -13,6 +13,11 @@ const links = [{
   label: 'Portfolio',
   to: '/portfolio',
   icon: 'i-heroicons-photo'
+},
+{  
+  label: 'About',
+  to: '/about',
+  icon: 'i-heroicons-user'
 }]
 </script>
 

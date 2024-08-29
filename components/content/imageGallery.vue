@@ -16,7 +16,7 @@ img {
   border-radius: 5px;
   margin-right: 5px;
   max-height: 200px;
-  margin-bottom: 10px;
-  margin-top: 10px;
+  margin-bottom: 30px;
+  margin-top: 20px;
 }
 </style>
