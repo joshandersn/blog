@@ -14,12 +14,16 @@ Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
 
 Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
 
-Side hustling game developer. Working on my first game in the [Godot Engine](https://godotengine.org)
+Side hustling game developer. Working on my first game codenamed Crow.
 
 
 ---
 
-[🐦 X](https://x.com/joshandersn)
+[🐦 Twitter](https://x.com/joshandersn)
+
+[🎮 Discord](https://discord.gg/ugMbGGEx5n) 
+
+[🦋 Bluesky](https://joshandersn.bsky.social)
 
 [🐙 Github](https://github.com/joshandersn)
 

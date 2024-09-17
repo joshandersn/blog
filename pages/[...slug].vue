@@ -69,7 +69,7 @@ hr {
 .subtext {
   font-size: 10pt;
   line-height: 15pt;
-  color: #00000088;
+  color: #ffffff88;
   display: flex;
 }
 img[alt="my-face"] {

@@ -7,7 +7,7 @@ defineProps(['route', 'img', 'written'])
         <div style="display: flex; align-items: center;">
             <div>
                     <slot />
-                    <div style="font-size: 10pt; color: #00000055;">
+                    <div style="font-size: 10pt; color: #ffffff55;">
                         {{ written }}
                     </div>
                 </div>
