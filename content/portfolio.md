@@ -1,8 +1,12 @@
-::page-link{route="portfolio/gardenmaze" img="port/gardenmazesplash.jpg" written="Cover art, and title design"}
+::page-link{route="portfolio/songofbones" img="port/sobsplash.jpg" written="Illustration, Logo, Press Assets"}
+A Song of Bones
+::
+
+::page-link{route="portfolio/gardenmaze" img="port/gardenmazesplash.jpg" written="Illustration, Logo"}
 The Garden Maze
 ::
 
-::page-link{route="portfolio/inkbird" img="port/inkbirdsplash.jpg" written="Logo, brand, and website"}
+::page-link{route="portfolio/inkbird" img="port/inkbirdsplash.jpg" written="Logo, Brand, and Website"}
 Inkbird's Identity
 ::
 
