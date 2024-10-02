@@ -3,7 +3,7 @@
   </script>
 <template>
   <div style="display: flex; overflow:none;">
-    <img :src="`img/${img1}`">
+    <img :src="`/blog/img/${img1}`">
   </div>
 </template>
 

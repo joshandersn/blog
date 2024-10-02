@@ -3,21 +3,18 @@ title: Josh's Website
 ---
 
 # Welcome to My Website!
+Here you can check out all my links and keep up to date with my projects.
 
-::face-gallery{img1="crow01.jpg"}
-::
-This is my first project I plan to release on Steam (& Consoles hopefully). It's a vehicular combat arcade survival game inspired by Geometry Wars, and WipEout.
+Currently I an solo developing a futuristic vehicular combat game. Planning to release late 2024 or early 2025.
 
-This game has been in development since April 2024. Hopefully I will have it done this year. So anywho  Here are some screenshots.
-
-::image-gallery{img1="img/crow04.jpg" img2="img/crow03.jpg" img3="img/crow02.jpg"}
+::face-gallery{img1="Ironfuse.jpg"}
 ::
 
+You can follow me where ever you like (I'm mostly active on twitter)
 
+[🐦 Twitter](https://x.com/joshandersn)
 
-If you wanna keep up with this project you can follow me on [Twitter](https://x.com/joshandersn)
-
-You can also join the [Discord!](https://discord.gg/ugMbGGEx5n) 
+[🎮 Discord](https://discord.gg/ugMbGGEx5n) 
 
 [🦋 Bluesky](https://joshandersn.bsky.social)
 
