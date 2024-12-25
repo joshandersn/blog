@@ -1,3 +1,9 @@
+# My Portfolio
+
+Projects I have worked on going as far back as to 2016. I have designed website/app layouts and logos for various clients including branding, press ready assets, vinyl sticker design and production, social media assets, and fullstack development.
+
+--- 
+
 ::page-link{route="portfolio/songofbones" img="port/sobsplash.jpg" written="Illustration, Logo, Press Assets"}
 A Song of Bones
 ::

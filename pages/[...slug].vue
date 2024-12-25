@@ -24,7 +24,7 @@ const links = [{
 <template>
   <main>
     <UContainer>
-      <img src="/img/logo.png" style="max-height: 70px; margin-top: 15px;" alt="joshandersn logo">
+      <img src="/img/KBlogo.png" style="max-height: 100px; margin-top: 15px;" alt="joshandersn logo">
       <UHorizontalNavigation :links="links">
         <template #default="{ link }">
           <span class="group-hover:text-primary relative">{{ link.label }}</span>
@@ -38,10 +38,10 @@ const links = [{
         </ContentDoc>
         <template #footer>
           <span class="subtext">
-            Josh Anderson<br>
-            josh@inkbird.io<br>
+            Kickbutton Games<br>
+            kickbuttongames@gmail.com<br>
             +1 (580) 860-5495<br>
-            Website made by me. Written in Nuxt<br>
+            Website made by yours truly.<br>
           </span>
         </template>
       </UCard>

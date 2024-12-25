@@ -2,15 +2,15 @@
 title: Josh's Website
 ---
 
-# About
+# About Me
 
-Self-taught graphic designer, music producer, illustrator, and computer programer
+Josh Anderson, self-taught graphic designer, music producer, illustrator, and computer programer.
 
-Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
+Creator of KickButton Games and it's intelectual properties.
+
+Fullstack Developer, and Lead Designer for Fullstack Miami
 
 Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
-
-Side hustling game developer.
 
 ---
 
