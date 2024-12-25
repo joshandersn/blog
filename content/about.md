@@ -4,18 +4,13 @@ title: Josh's Website
 
 # About
 
-::face-gallery{img1="banner1.jpg"}
-::
-
-
-Self-taught designer, music producer, illustrator, and computer programer
+Self-taught graphic designer, music producer, illustrator, and computer programer
 
 Fullstack Developer, and Creative Lead for [Inkbird](https://inkbird.io)
 
 Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
 
-Side hustling game developer. Working on my first game codenamed Crow.
-
+Side hustling game developer.
 
 ---
 
