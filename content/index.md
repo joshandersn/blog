@@ -21,6 +21,8 @@ You can follow me where ever you like to stay up to date.
 
 [🐦 Twitter](https://x.com/joshandersn)
 
+[🎮 Steam](https://store.steampowered.com/app/3280820/Iron_Fuse/)
+
 [🎮 Discord](https://discord.gg/ugMbGGEx5n) 
 
 [🎮 Itch](https://jothon.itch.io/)

@@ -16,6 +16,8 @@ Co-Host of the [Tan Pants Podcast](https://linktr.ee/tanpants)
 
 [🐦 Twitter](https://x.com/joshandersn)
 
+[🎮 Steam](https://store.steampowered.com/app/3280820/Iron_Fuse/)
+
 [🎮 Discord](https://discord.gg/ugMbGGEx5n) 
 
 [🦋 Bluesky](https://joshandersn.bsky.social)
