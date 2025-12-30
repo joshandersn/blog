@@ -1,23 +1,17 @@
 ---
 title: Josh's Website
 ---
-# IRON FUSE
-::image-gallery{img1="/blog/img/HeaderCapsule.png" img2="/blog/img/crow/crow_ss1.png" img3="/blog/img/crow/crow_ss2.png"}
+
+::face-gallery{img1="IFCapsule.png"}
 ::
-Introducing IRON FUSE a futuristic vehicular combat arcade game. You pilot a zero gravity vehicle welding weapons and devices to combat waves of enemies. Compete in the global leaderboards or with your friends to see how long you can survive.
-
-Aimimg for a 2025 release!
-
----
-
-WISHLIST IRON FUSE ⬇️
-
+# WISHLIST IRON FUSE ON STEAM ⬇️
 Steam Page: https://store.steampowered.com/app/3280820/Iron_Fuse/
 
+Survive against awful machines and operate in and our of your vehicle in this electrifying physics-based vehicular combat movement shooter.
 
 
 --- 
-You can follow me where ever you like to stay up to date.
+Socials
 
 [🐦 Twitter](https://x.com/joshandersn)
 
